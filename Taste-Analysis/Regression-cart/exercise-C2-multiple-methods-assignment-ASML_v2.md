@@ -1,4 +1,4 @@
-Taste Analysis - multiple methods
+Taste Analysis - Multiple Methods
 ================
 Andrea Sonnellini
 12 settembre 2020
