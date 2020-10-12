@@ -3,4 +3,4 @@ This repository includes the Statistical Analysis I did for 2 small datasets, on
 
   - [Taste Analysis considering multiple methods](https://github.com/asonnellini/Statistical-Analysis-with-R-Regression-and-Decision-Trees/blob/main/Taste-Analysis/Regression-cart/exercise-C2-multiple-methods-assignment-ASML_v2.md)
   -  [Taste Analysis focusing on linear regression only](https://github.com/asonnellini/Statistical-Analysis-with-R-Regression-and-Decision-Trees/blob/main/Taste-Analysis/Regression-only/exercise-C2-regression-only-assignment-ASML.md)
-  - Medical Treatment Analysis
+  - [Medical Treatment Analysis](https://github.com/asonnellini/Statistical-Analysis-with-R-Regression-and-Decision-Trees/blob/main/Therapy-Analysis/Therapy-Analysis.md)
